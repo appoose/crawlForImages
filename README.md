@@ -2,11 +2,11 @@ Python script to crawl Web for Images from multiple sources ( google, bing, 500p
 
 The inovakation is as follows:
 
-<code><pre>python crawlForImages.py query search_engine </pre></code>
+<code>python crawlForImages.py query search_engine </code>
 
-<pre>query</pre> can span multiple words
+<code>query</code> can span multiple words
 
-<pre>search_engine</pre> values are <pre>google, bing, 500px, flickr</pre>. Additionaly you can search for popular images from 500px with <pre>popular500px</pre> 
+<code>search_engine</code> values are <code>google, bing, 500px, flickr</code>. Additionaly you can search for popular images from 500px with <code>popular500px</code> 
 
-Both <pre>query</pre> and <pre>search_engine</pre> are optional arguments, the default values are rothko and google respectively. 
+Both <code>query</code> and <code>search_engine</code> are optional arguments, the default values are rothko and google respectively. 
 

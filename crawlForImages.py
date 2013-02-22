@@ -1,4 +1,8 @@
 # script to download content using various apis
+# author : Appu Shaji ( contact me at appoose at gmail )
+# license : GPLv3 
+# date : 20th Feb 2013
+
 import urllib
 import sys
 import time
