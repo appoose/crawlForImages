@@ -4,7 +4,7 @@ crawlForImages
 
 Python script to crawl Web for Images from multiple sources ( google, bing, 500px and flickr )
 
-----------
+
 Invokation
 ----------
 
