@@ -1,2 +1,4 @@
+requests
 python-500px
 flickrapi
+simplejson
